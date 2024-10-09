@@ -1,7 +1,6 @@
 # AventuraJavascript
 Clara Eduarda Bahia Franco e Samilly Rayara Vilela Dias
 
-markdown
 # Aventura de Duda Croft
 
 ## Descrição do Jogo
